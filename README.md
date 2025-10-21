@@ -69,10 +69,7 @@ CHROM, POS, GENE, REF, ALT, DP, FILTER
 
 This pipeline allows for the analysis of sequencing data, the identification and annotation of somatic variants, and filtering of results for significant mutations. It is suited for genomic studies, particularly for cancer sample analyses.
 
-## Authors
 
-- *Your Name*: Lead Developer
-- *Collaborator 1*: Contributor
 
 ## License
 
